@@ -41,7 +41,7 @@
 
 </td>
 
-<td>
+
 
 ```text
 jose@github
@@ -57,6 +57,5 @@ Environment: ..... Linux + Docker
 OS: ...... CachyOS, Fedora
 ```
 
-</td>
 </tr>
 </table>
