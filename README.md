@@ -46,15 +46,14 @@
 ```text
 jose@github
 ----------------------------------
-Name: ........ José Uriel Salazar
-Uptime: ............... 22 years
-Location: ..... Mexico City, MX
-Working On: ......... Multiproseg
-Role: ...... Backend Developer
-Experience: ... Always Learning
-Interests: Linux Ricing, Games
-Environment: ..... Linux + Docker
-OS: ...... CachyOS, Fedora
+Name: ......... José Uriel Salazar
+Uptime: ................. 22 years
+Location: ........ Mexico City, MX
+Focused: ....... Backend Developer
+Experience: ...... Always Learning
+Interests: ... Linux Ricing, Games
+Environment: ...... Linux + Docker
+OS: .............. CachyOS, Fedora
 ```
 
 </tr>
