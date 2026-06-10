@@ -1,4 +1,3 @@
-<div align="center">
 
 ```text
 
@@ -27,7 +26,6 @@
         ⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠸⠁⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-</div>
 
 ## 💡 About
 I'm a backend developer from Mexico who enjoys turning ideas into functional systems. Most of my time is spent building applications with Laravel, exploring Linux, automating workflows, and continuously learning better ways to design software.
