@@ -1,7 +1,7 @@
 
 <a href="https://github.com/JoseSalazar1312">
   <picture>
-    <source  srcset="https://raw.githubusercontent.com/JoseSalazar1312/JoseSalazar1312/assets/banner.svg">
+    <source  srcset="assets/banner.svg">
   </picture>
 </a>
 
