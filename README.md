@@ -1,9 +1,5 @@
 
-<a href="https://github.com/JoseSalazar1312">
-  <picture>
-    <source  srcset="assets/banner.svg">
-  </picture>
-</a>
+<img src="assets/banner.svg" alt="Logo">
 
 
 ## 💡 About
