@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="430px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="0"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">           ##@@@@@@@@@@##</tspan>
+<tspan x="15" y="50">        #@@@@@@@@@@@@@@@@@@#</tspan>
+<tspan x="15" y="70">     #@@@@@@@@@@@@@@@@@@@@@@@@# </tspan>
+<tspan x="15" y="90">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="110">  #@@@@@    ############    @@@@@ </tspan>
+<tspan x="15" y="130"> #@@@@@@                    @@@@@@</tspan>
+<tspan x="15" y="150"> @@@@@@@                    @@@@@@@ </tspan>
+<tspan x="15" y="170"> #@@@@@@                      @@@@@@</tspan>
+<tspan x="15" y="190">@@@@@@#                      #@@@@@@</tspan>
+<tspan x="15" y="210">@@@@@@#                      #@@@@@@</tspan>
+<tspan x="15" y="230">@@@@@@@                      @@@@@@@</tspan>
+<tspan x="15" y="250">#@@@@@@@                    @@@@@@@#</tspan>
+<tspan x="15" y="270"> @@@@#@@@#                #@@@@@@@@</tspan>
+<tspan x="15" y="290">  @@@#  @@@@@@        @@@@@@@@@@@@</tspan>
+<tspan x="15" y="310">   #@@@   ####        #@@@@@@@@@# </tspan>
+<tspan x="15" y="330">     @@@#             #@@@@@@@@</tspan>
+<tspan x="15" y="350">       #@@@@@#        #@@@@@#  </tspan>
+<tspan x="15" y="370">          #@@#        #@@#</tspan>
+
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">josesalazar@github</tspan> -—————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Nombre</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">José Uriel Salazar Garcia</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Profesión</tspan>:<tspan class="cc" > ...................... </tspan><tspan class="value">Ingeniero en Informática</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Edad</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">23 Años</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Ubicación</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Ciudad de México, MX</tspan>
+<tspan x="390" y="130" class="cc">. </tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Trabajando en</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Sistemas Empresariales</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Puesto</tspan><tspan class="key"></tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Analista de Sistemas</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key"></tspan><tspan class="key"></tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Intereses</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Linux Ricing, Backend, Games, Self-Hosting </tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Enviroment</tspan>:<tspan class="key"></tspan><tspan class="cc"> ............. </tspan><tspan class="value">Linux, Docker, Terminal, VS Code</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Estatus</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Siempre Aprendiendo</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Objetivo</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Backend Senior</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">js13122002@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Linkedin</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/josesalazar1312</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">josesalazar1312</tspan>
+
+</text>
+</svg>
